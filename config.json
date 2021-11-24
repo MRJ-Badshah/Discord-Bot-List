@@ -1,0 +1,105 @@
+{
+  "discord_client": {
+    "id": "912360598472368198",
+    "token": "OTEyMzYwNTk4NDcyMzY4MTk4.YZu0BQ.DHuQT7xp4hihsHOER5lsILVEX_0",
+    "secret": "bscFoeuqqqKTnJ3enHeftfALIfCZUUFZ",
+    "prefix": "lb!"
+  },
+  "web": {
+    "domain_with_protocol": "https://dbl.mrjbadshah.repl.co",
+    "port": 5000,
+    "ratelimit": 100,
+    "recaptcha_v2": {
+      "site_key": "6LfcXVMdAAAAAJO32r2LXN81g1hNJ14qgLOIL5DB",
+      "secret_key": "6LfcXVMdAAAAAPquN12CJd5gUypxReIZf3LQrGHn"
+    }
+  },
+  "mongo_url": "mongodb+srv://mrjbadshah:mrjbadshah@cluster0.o0pdk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "server": {
+    "id": "884687957041229835",
+    "invite": "https://discord.gg/hNUvmrKufy",
+    "like_log": "885131696385695784",
+    "botOwners": "856838744124030996",
+    "mod_log_id": "885131696385695784",
+    "website_logs": "885131696385695784",
+    "admin_user_ids": "856838744124030996",
+    "role_ids": {
+      "bot": "912665443649597440",
+      "verified": "912665458329669672",
+      "unverified": "912665463358644254",
+      "bot_verifier": "912665471264894986",
+      "bot_developer": "912665807895535647",
+      "cert_user": "912693151024693309",
+      "cert_bot": "912693143621750815"
+    },
+    "botreviewer": [
+      "856838744124030996",
+      "857873447581253643"
+    ]
+  },
+  "bot_options": {
+    "bot_tags": [
+      "Music",
+      "Moderation",
+      "Fun",
+      "Economy",
+      "Anime",
+      "Game",
+      "Meme",
+      "Social",
+      "Leveling",
+      "Roleplay",
+      "Role Managment",
+      "Logging",
+      "Web Dashboard",
+      "Utility",
+      "Stream",
+      "Games",
+      "Youtube",
+      "Twitch",
+      "Reddit"
+    ],
+    "bot_libraries": [
+      "discljord",
+      "aegis.cpp",
+      "D++",
+      "Sleepy Discord",
+      "discordcr",
+      "Discord.Net",
+      "DSharpPlus",
+      "dscord",
+      "coxir",
+      "Nostrum",
+      "DiscordGo",
+      "DisGord",
+      "catnip",
+      "Discord4J",
+      "Javacord",
+      "JDA",
+      "discord.js",
+      "Eris",
+      "Discord.jl",
+      "Discordia",
+      "Dimscord",
+      "discordnim",
+      "DiscordPHP",
+      "RestCord",
+      "discord.py",
+      "disco",
+      "discordrb",
+      "discord-rs",
+      "Serenity",
+      "Twilight",
+      "AckCord",
+      "Sword",
+      "Detritus",
+      "discordeno",
+      "Harmony"
+    ],
+    "max_bot_tags": 6,
+    "max_owners_count": 3,
+    "max_summary_length": 140,
+    "min_description_length": 300,
+    "max_description_length": 10000
+  }
+}
